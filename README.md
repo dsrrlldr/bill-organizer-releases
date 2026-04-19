@@ -8,10 +8,10 @@ A fast, private, offline-first desktop app for tracking recurring bills and paym
 
 Download the latest installer for your OS from the [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest).
 
-- **macOS (Apple Silicon)** — [`.dmg` (aarch64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_aarch64.dmg)
-- **macOS (Intel)** — [`.dmg` (x64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_x64.dmg)
-- **Windows** — [`.msi`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_x64_en-US.msi) · [`.exe` (NSIS)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_x64-setup.exe)
-- **Linux** — [`.AppImage`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_amd64.AppImage) · [`.deb`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_amd64.deb)
+- **macOS (Apple Silicon)** — [`.dmg` (aarch64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_aarch64.dmg)
+- **macOS (Intel)** — [`.dmg` (x64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_x64.dmg)
+- **Windows** — [`.msi`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_x64_en-US.msi) · [`.exe` (NSIS)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_x64-setup.exe)
+- **Linux** — [`.AppImage`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_amd64.AppImage) · [`.deb`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.2.8_amd64.deb)
 
 If a direct link 404s, grab the matching asset from the [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest) (filenames may vary slightly by version).
 
