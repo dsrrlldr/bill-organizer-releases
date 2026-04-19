@@ -2,6 +2,8 @@
 
 A fast, private, offline-first desktop app for tracking recurring bills and payments.
 
+![Bill Organizer](BillOrganizer.png)
+
 ## Install
 
 Download the latest installer for your OS from the [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest).
