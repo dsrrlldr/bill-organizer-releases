@@ -66,7 +66,7 @@ chmod +x BillOrganizer_*.AppImage
 
 ### Core: bills & payments
 - **Recurring bills with flexible schedules** — daily, weekly, monthly, or custom N-day intervals; fixed day-of-month; start/end dates; per-bill notes and payment links.
-- **Payment history per bill** — amount, currency, date, and comment for every payment, editable and deletable.
+- **Payment history per bill** — amount, currency, date, and comment for every payment.
 - **Variable bill amounts over time** — record amount changes with effective dates (utilities that shift month to month) without losing history.
 - **Payment sources** — track which card, account, or wallet pays each bill.
 - **Multi-currency** — record payments in any currency, add your own codes.
@@ -81,7 +81,6 @@ chmod +x BillOrganizer_*.AppImage
 - **Multi-device sync via shared folder** — point the app at a Dropbox / iCloud / Syncthing folder and your devices converge automatically. No server involved.
 - **Durable history** — every change is recorded as an append-only event, so nothing gets silently overwritten and data stays portable.
 - **Custom data directory** — keep your vault wherever you want.
-- **Import from CSV** — bring existing bills in without retyping.
 
 ### Look & feel
 - **Full dark mode** — per-theme dark palettes, semantic color tokens, instant toggle.
@@ -95,4 +94,4 @@ chmod +x BillOrganizer_*.AppImage
 - **Fast & lightweight** — native desktop performance with a small install footprint.
 - **Cross-platform** — macOS (Apple Silicon & Intel), Windows, Linux.
 - **Auto-updates** — the app checks for new versions on startup and updates securely.
-- **Onboarding walkthrough** — guided first-run tour so new users get productive in a minute.
+- **Onboarding walkthrough** — guided first-run tour.
