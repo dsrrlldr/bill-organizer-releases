@@ -25,7 +25,7 @@ Download the latest installer for your OS from the [Releases page](https://githu
 
 If a direct link 404s, grab the matching asset from the [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest) (filenames may vary slightly by version).
 
-### Bypassing OS security warnings
+### ⚠️ ⚠️ ⚠️ Bypassing OS security warnings
 
 The app is **not yet code-signed**, so your OS will flag it as coming from an unidentified developer. The app is safe — this is a cost/notarization limitation, not a security issue. Here's how to open it anyway:
 
