@@ -1,6 +1,6 @@
 # Bill Organizer
 
-A fast, private, offline-first desktop app for tracking recurring bills and payments.
+Fast, private, offline-first desktop app for tracking recurring bills and payments.
 
 ![Bill Organizer](BillOrganizer.png)
 
