@@ -19,10 +19,10 @@ Fast, private, offline-first desktop app for tracking recurring bills and paymen
 Download the latest version from the  
 👉 [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest)
 
-- **macOS (Apple Silicon)** — [`.dmg` (aarch64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_aarch64.dmg)
-- **macOS (Intel)** — [`.dmg` (x64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_x64.dmg)
-- **Windows** — [`.msi`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_x64_en-US.msi) · [`.exe` (NSIS)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_x64-setup.exe)
-- **Linux** — [`.AppImage`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_amd64.AppImage) · [`.deb`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.3_amd64.deb)
+- **macOS (Apple Silicon)** — [`.dmg` (aarch64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_aarch64.dmg)
+- **macOS (Intel)** — [`.dmg` (x64)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_x64.dmg)
+- **Windows** — [`.msi`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_x64_en-US.msi) · [`.exe` (NSIS)](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_x64-setup.exe)
+- **Linux** — [`.AppImage`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_amd64.AppImage) · [`.deb`](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest/download/Bill.Organizer_0.3.4_amd64.deb)
 
 If a direct link 404s, grab the matching asset from the [Releases page](https://github.com/dsrrlldr/bill-organizer-releases/releases/latest) (filenames may vary slightly by version).
 
@@ -32,8 +32,17 @@ The app is **not code-signed yet**, so your OS may warn you.
 This is expected and related to distribution costs — not a security issue.
 
 ### 🪟 Windows (SmartScreen)
-1. Click **More info** on the blue warning dialog.
-2. Click **Run anyway**.
+
+<table>
+<tr>
+<td>1. Click **More info** on the blue warning dialog.</td>
+<td>2. Click **Run anyway**.</td>
+</tr>
+<tr>
+<td><img src="baypass_win.png" width="350"></td>
+<td><img src="baypass_win2.png" width="350"></td>
+</tr>
+</table>
 
 If Microsoft Defender blocks the download itself, open Downloads in your browser and choose **Keep** → **Keep anyway**.
 
